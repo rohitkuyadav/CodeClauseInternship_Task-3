@@ -4,7 +4,7 @@
 Made by:  Rohit Kumar Yadav
 date : 10-10-2023
 '''
-import sys # rovides various functions and variables that are used to manipulate different parts of the Python runtime environment
+import sys # provides various functions and variables that are used to manipulate different parts of the Python runtime environment
 import time  #provides many ways of representing time in code, such as objects, numbers, and strings
 import random # to random call the given text or somthing
 import pygame  # pip install pygame
